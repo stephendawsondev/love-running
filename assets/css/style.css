@@ -275,6 +275,14 @@ footer>ul>li i {
     hr {
         display: none;
     }
+
+    #times > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+        text-align: center;
+    }
 }
 
 @media screen and (max-width: 900px) {
