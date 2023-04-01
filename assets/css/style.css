@@ -211,3 +211,24 @@ hr {
 #times > div > h2 {
     color:#fff;
 }
+
+footer {
+    height: 150px;
+}
+
+footer ul {
+    margin: 0 auto;
+    text-align: center;
+    list-style: none;
+}
+
+footer > ul > li {
+    display: inline;
+}
+
+footer > ul > li i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
